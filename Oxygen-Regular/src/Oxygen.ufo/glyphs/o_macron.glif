@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omacron" format="1">
   <advance width="1626"/>
-<<<<<<< HEAD
   <unicode hex="014c"/>
-=======
-  <unicode hex="014C"/>
->>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
   <outline>
+    <component base="macron" xOffset="282" yOffset="104"/>
     <component base="O"/>
-    <component base="macron" xOffset="284" yOffset="124"/>
   </outline>
   <lib>
     <dict>
@@ -26,7 +22,7 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1627</integer>
-	    <key>width</key>	    <integer>139</integer>
+	    <key>width</key>	    <integer>122</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>

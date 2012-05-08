@@ -3,8 +3,8 @@
   <advance width="540"/>
   <unicode hex="0130"/>
   <outline>
+    <component base="dotaccent" xOffset="268.5" yOffset="1505"/>
     <component base="I"/>
-    <component base="uni0307" xOffset="62" yOffset="309"/>
   </outline>
   <lib>
     <dict>

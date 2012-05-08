@@ -4,7 +4,6 @@
   <unicode hex="2021"/>
   <outline>
     <contour>
-<<<<<<< HEAD
       <point x="413" y="110" type="line" smooth="no"/>
       <point x="413" y="467" type="line" smooth="no"/>
       <point x="107" y="467" type="line" smooth="no"/>
@@ -25,28 +24,6 @@
       <point x="843" y="467" type="line" smooth="no"/>
       <point x="543" y="467" type="line" smooth="no"/>
       <point x="543" y="110" type="line" smooth="no"/>
-=======
-      <point x="413" y="110" type="line"/>
-      <point x="413" y="467" type="line"/>
-      <point x="107" y="467" type="line"/>
-      <point x="107" y="604" type="line"/>
-      <point x="413" y="604" type="line"/>
-      <point x="413" y="1059" type="line"/>
-      <point x="112" y="1059" type="line"/>
-      <point x="112" y="1199" type="line"/>
-      <point x="413" y="1199" type="line"/>
-      <point x="413" y="1550" type="line"/>
-      <point x="543" y="1550" type="line"/>
-      <point x="543" y="1199" type="line"/>
-      <point x="850" y="1199" type="line"/>
-      <point x="850" y="1059" type="line"/>
-      <point x="543" y="1059" type="line"/>
-      <point x="543" y="604" type="line"/>
-      <point x="843" y="604" type="line"/>
-      <point x="843" y="467" type="line"/>
-      <point x="543" y="467" type="line"/>
-      <point x="543" y="110" type="line"/>
->>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
   <advance width="676"/>
-<<<<<<< HEAD
   <unicode hex="005b"/>
   <outline>
     <contour>
+      <point x="596" y="-293" type="line" smooth="no"/>
       <point x="143" y="-293" type="line" smooth="no"/>
       <point x="143" y="1483" type="line" smooth="no"/>
       <point x="596" y="1483" type="line" smooth="no"/>
@@ -12,20 +12,6 @@
       <point x="316" y="1351" type="line" smooth="no"/>
       <point x="316" y="-161" type="line" smooth="no"/>
       <point x="596" y="-161" type="line" smooth="no"/>
-      <point x="596" y="-293" type="line" smooth="no"/>
-=======
-  <unicode hex="005B"/>
-  <outline>
-    <contour>
-      <point x="596" y="-293" type="line"/>
-      <point x="143" y="-293" type="line"/>
-      <point x="143" y="1483" type="line"/>
-      <point x="596" y="1483" type="line"/>
-      <point x="596" y="1351" type="line"/>
-      <point x="316" y="1351" type="line"/>
-      <point x="316" y="-161" type="line"/>
-      <point x="596" y="-161" type="line"/>
->>>>>>> 91749908f94e59e2ae39cb29b03bd24938bc6ec0
     </contour>
   </outline>
   <lib>
@@ -49,13 +35,13 @@
 	    <key>position</key>
 	    <integer>143</integer>
 	    <key>width</key>
-	    <integer>453</integer>
+	    <integer>173</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
 	    <integer>143</integer>
 	    <key>width</key>
-	    <integer>173</integer>
+	    <integer>453</integer>
 	  </dict>
 	</array>
       </dict>

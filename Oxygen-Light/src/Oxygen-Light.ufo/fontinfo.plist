@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Oxygen Light Light</string>
+	<string>Oxygen</string>
 	<key>styleName</key>
 	<string>Light</string>
 	<key>copyright</key>
@@ -29,7 +29,7 @@
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameVersion</key>
-	<string>webfont 0.2.2</string>
+	<string>Version </string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -113,44 +113,5 @@
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
 	<integer>0</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		<integer>-30</integer>
-		<integer>0</integer>
-		<integer>1096</integer>
-		<integer>1128</integer>
-		<integer>1488</integer>
-		<integer>1548</integer>
-	</array>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-550</integer>
-		<integer>-201</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>-7</integer>
-		<integer>-61</integer>
-		<integer>-70</integer>
-		<integer>-72</integer>
-		<integer>-75</integer>
-		<integer>-81</integer>
-		<integer>-83</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>-95</integer>
-		<integer>-97</integer>
-		<integer>-101</integer>
-		<integer>-102</integer>
-		<integer>-104</integer>
-		<integer>-107</integer>
-	</array>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625000208616257</real>
     </dict>
 </plist>

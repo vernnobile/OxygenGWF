@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Oxygen Medium</string>
+	<string>Oxygen</string>
 	<key>styleName</key>
 	<string>Medium</string>
 	<key>copyright</key>
@@ -31,7 +31,7 @@
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
+	<integer>500</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -44,7 +44,7 @@
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
-		<integer>1</integer>
+		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
@@ -93,7 +93,7 @@
 	<key>postscriptFullName</key>
 	<string>Oxygen Medium</string>
 	<key>postscriptWeightName</key>
-	<string>Normal</string>
+	<string>Medium</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>

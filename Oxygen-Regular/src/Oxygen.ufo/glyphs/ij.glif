@@ -3,8 +3,38 @@
   <advance width="911"/>
   <unicode hex="0133"/>
   <outline>
-    <component base="i"/>
-    <component base="j" xOffset="466"/>
+    <contour>
+      <point x="796" y="1097" type="line" smooth="no"/>
+      <point x="796" y="-139" type="line" smooth="yes"/>
+      <point x="796" y="-407"/>
+      <point x="736" y="-502"/>
+      <point x="463" y="-502" type="curve" smooth="yes"/>
+      <point x="411" y="-502" type="line" smooth="no"/>
+      <point x="389" y="-351" type="line" smooth="no"/>
+      <point x="441" y="-351" type="line" smooth="yes"/>
+      <point x="623" y="-351"/>
+      <point x="628" y="-286"/>
+      <point x="628" y="-121" type="curve" smooth="yes"/>
+      <point x="628" y="1097" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="796" y="1496" type="line" smooth="no"/>
+      <point x="796" y="1298" type="line" smooth="no"/>
+      <point x="628" y="1298" type="line" smooth="no"/>
+      <point x="628" y="1496" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="327" y="1097" type="line" smooth="no"/>
+      <point x="327" y="0" type="line" smooth="no"/>
+      <point x="159" y="0" type="line" smooth="no"/>
+      <point x="159" y="1097" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="327" y="1496" type="line" smooth="no"/>
+      <point x="327" y="1298" type="line" smooth="no"/>
+      <point x="159" y="1298" type="line" smooth="no"/>
+      <point x="159" y="1496" type="line" smooth="no"/>
+    </contour>
   </outline>
   <lib>
     <dict>

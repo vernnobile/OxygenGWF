@@ -3,7 +3,7 @@
   <advance width="1301"/>
   <unicode hex="0108"/>
   <outline>
-    <component base="circumflex" xOffset="271.5" yOffset="425"/>
+    <component base="circumflex" xOffset="400.5" yOffset="425"/>
     <component base="C"/>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="1100"/>
   <unicode hex="0169"/>
   <outline>
-    <component base="tilde" xOffset="123" yOffset="-45"/>
+    <component base="tilde" xOffset="333" yOffset="1100"/>
     <component base="u"/>
   </outline>
   <lib>
