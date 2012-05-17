@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foundryicon" format="1">
+  <advance width="2048"/>
+  <outline>
+    <contour>
+      <point x="911" y="1638" type="line" smooth="no"/>
+      <point x="1082" y="1113" type="line" smooth="no"/>
+      <point x="1634" y="1113" type="line" smooth="no"/>
+      <point x="1187" y="788" type="line" smooth="no"/>
+      <point x="1358" y="263" type="line" smooth="no"/>
+      <point x="911" y="588" type="line" smooth="no"/>
+      <point x="464" y="263" type="line" smooth="no"/>
+      <point x="635" y="788" type="line" smooth="no"/>
+      <point x="188" y="1113" type="line" smooth="no"/>
+      <point x="741" y="1113" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>
