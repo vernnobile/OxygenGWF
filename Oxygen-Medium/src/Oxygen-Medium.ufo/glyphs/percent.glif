@@ -32,10 +32,10 @@
       <point x="1268" y="121"/>
     </contour>
     <contour>
-      <point x="351" y="-19" type="line" smooth="no"/>
-      <point x="1202" y="1456" type="line" smooth="no"/>
-      <point x="1396" y="1455" type="line" smooth="no"/>
-      <point x="527" y="-19" type="line" smooth="no"/>
+      <point x="351" y="-19" type="line"/>
+      <point x="1202" y="1456" type="line"/>
+      <point x="1396" y="1455" type="line"/>
+      <point x="527" y="-19" type="line"/>
     </contour>
     <contour>
       <point x="412" y="701" type="curve" smooth="yes"/>

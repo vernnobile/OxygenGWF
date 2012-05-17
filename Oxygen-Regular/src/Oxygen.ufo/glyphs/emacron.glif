@@ -3,8 +3,8 @@
   <advance width="1108"/>
   <unicode hex="0113"/>
   <outline>
-    <component base="macron" xOffset="25" yOffset="-281"/>
     <component base="e"/>
+    <component base="macron" xOffset="25" yOffset="-281"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
 	    <key>width</key>	    <integer>138</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1242</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>122</integer>
 	  </dict>
 	</array>

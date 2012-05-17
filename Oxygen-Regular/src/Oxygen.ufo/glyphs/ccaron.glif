@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
   <advance width="968"/>
-  <unicode hex="010d"/>
+  <unicode hex="010D"/>
   <outline>
-    <component base="caron" xOffset="95" yOffset="-29"/>
     <component base="c"/>
+    <component base="caron" xOffset="95" yOffset="-29"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>143</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1242</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>388</integer>
 	  </dict>
 	</array>
@@ -35,7 +35,7 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>318</integer>
+	    <integer>203</integer>
 	    <key>width</key>
 	    <integer>587</integer>
 	  </dict>

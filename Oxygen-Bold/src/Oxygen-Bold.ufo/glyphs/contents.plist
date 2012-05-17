@@ -52,8 +52,6 @@
 	<string>e_circumflex.glif</string>
 	<key>Edieresis</key>
 	<string>e_dieresis.glif</string>
-	<key>Edotaccent</key>
-	<string>e_dotaccent.glif</string>
 	<key>Egrave</key>
 	<string>e_grave.glif</string>
 	<key>Emacron</key>
@@ -356,8 +354,6 @@
 	<string>ecircumflex.glif</string>
 	<key>edieresis</key>
 	<string>edieresis.glif</string>
-	<key>edotaccent</key>
-	<string>edotaccent.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
 	<key>eight</key>
@@ -540,16 +536,12 @@
 	<string>parenleft.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
-	<key>partialdiff</key>
-	<string>partialdiff.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
-	<key>pi</key>
-	<string>pi.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>
@@ -582,8 +574,6 @@
 	<string>r.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
-	<key>radical</key>
-	<string>radical.glif</string>
 	<key>rcaron</key>
 	<string>rcaron.glif</string>
 	<key>rcommaaccent</key>
@@ -618,8 +608,6 @@
 	<string>space.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
-	<key>summation</key>
-	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
 	<key>tcaron</key>
@@ -756,38 +744,8 @@
 	<string>uni0311.glif</string>
 	<key>uni0326</key>
 	<string>uni0326.glif</string>
-	<key>uni1E02</key>
-	<string>uni1e_02.glif</string>
-	<key>uni1E03</key>
-	<string>uni1e_03.glif</string>
-	<key>uni1E0A</key>
-	<string>uni1e_0a_.glif</string>
-	<key>uni1E0B</key>
-	<string>uni1e_0b_.glif</string>
-	<key>uni1E1E</key>
-	<string>uni1e_1e_.glif</string>
-	<key>uni1E1F</key>
-	<string>uni1e_1f_.glif</string>
-	<key>uni1E40</key>
-	<string>uni1e_40.glif</string>
-	<key>uni1E41</key>
-	<string>uni1e_41.glif</string>
-	<key>uni1E56</key>
-	<string>uni1e_56.glif</string>
-	<key>uni1E57</key>
-	<string>uni1e_57.glif</string>
-	<key>uni1E60</key>
-	<string>uni1e_60.glif</string>
-	<key>uni1E61</key>
-	<string>uni1e_61.glif</string>
-	<key>uni1E6A</key>
-	<string>uni1e_6a_.glif</string>
-	<key>uni1E6B</key>
-	<string>uni1e_6b_.glif</string>
 	<key>uni2074</key>
 	<string>uni2074.glif</string>
-	<key>uni2206</key>
-	<string>uni2206.glif</string>
 	<key>uniFB00</key>
 	<string>unif_b_00.glif</string>
 	<key>uniFB01</key>
@@ -838,5 +796,25 @@
 	<string>zero.glif</string>
 	<key>fj</key>
 	<string>fj.glif</string>
+	<key>Lcaron</key>
+	<string>l_caron.glif</string>
+	<key>Scircumflex</key>
+	<string>s_circumflex.glif</string>
+	<key>dcaron</key>
+	<string>dcaron.glif</string>
+	<key>uniFB03</key>
+	<string>unif_b_03.glif</string>
+	<key>uniFB04</key>
+	<string>unif_b_04.glif</string>
+	<key>lcaron</key>
+	<string>lcaron.glif</string>
+	<key>ldot</key>
+	<string>ldot.glif</string>
+	<key>ellipsis</key>
+	<string>ellipsis.glif</string>
+	<key>perthousand</key>
+	<string>perthousand.glif</string>
+	<key>foundryicon</key>
+	<string>foundryicon.glif</string>
     </dict>
 </plist>

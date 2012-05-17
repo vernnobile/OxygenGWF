@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="1">
   <advance width="1606"/>
-  <unicode hex="1e81"/>
+  <unicode hex="1E81"/>
   <outline>
     <component base="grave" xOffset="339" yOffset="-29"/>
     <component base="w"/>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1242</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>387</integer>
 	  </dict>
 	</array>

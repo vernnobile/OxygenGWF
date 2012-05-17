@@ -3,12 +3,7 @@
   <advance width="376"/>
   <unicode hex="0129"/>
   <outline>
-    <component base="tilde" xOffset="-234.5" yOffset="-118"/>
     <component base="dotlessi"/>
+    <component base="tilde" xOffset="-234.5" yOffset="-57"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

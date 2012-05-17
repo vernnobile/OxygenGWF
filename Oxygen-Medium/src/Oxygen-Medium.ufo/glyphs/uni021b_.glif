@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021B" format="1">
   <advance width="780"/>
-  <unicode hex="021b"/>
+  <unicode hex="021B"/>
   <outline>
     <component base="commaaccentcomb" xOffset="96.5" yOffset="31"/>
     <component base="t"/>

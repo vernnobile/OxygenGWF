@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F4" format="1">
   <advance width="1461"/>
-  <unicode hex="01f4"/>
+  <unicode hex="01F4"/>
   <outline>
-    <component base="acute" xOffset="537" yOffset="357"/>
     <component base="G"/>
+    <component base="acute" xOffset="537" yOffset="357"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
 	    <key>width</key>	    <integer>152</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1647</integer>
+	    <key>position</key>	    <integer>1607</integer>
 	    <key>width</key>	    <integer>388</integer>
 	  </dict>
 	</array>
@@ -39,7 +39,7 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>654</integer>
+	    <integer>665</integer>
 	    <key>width</key>
 	    <integer>439</integer>
 	  </dict>

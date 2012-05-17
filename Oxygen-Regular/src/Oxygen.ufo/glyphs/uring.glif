@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
   <advance width="1100"/>
-  <unicode hex="016f"/>
+  <unicode hex="016F"/>
   <outline>
-    <component base="ring" xOffset="333" yOffset="1110.19"/>
+    <component base="ring" xOffset="333" yOffset="1110"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -21,12 +21,12 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1246</integer>
-	    <key>width</key>	    <integer>73</integer>
+	    <key>position</key>	    <integer>1222</integer>
+	    <key>width</key>	    <integer>85</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1542</integer>
-	    <key>width</key>	    <integer>73</integer>
+	    <key>position</key>	    <integer>1591</integer>
+	    <key>width</key>	    <integer>85</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
@@ -39,15 +39,15 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>355</integer>
+	    <integer>316</integer>
 	    <key>width</key>
-	    <integer>96</integer>
+	    <integer>97</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>646</integer>
+	    <integer>687</integer>
 	    <key>width</key>
-	    <integer>98</integer>
+	    <integer>96</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>

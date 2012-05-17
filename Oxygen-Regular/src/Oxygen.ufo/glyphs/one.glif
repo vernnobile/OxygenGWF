@@ -4,17 +4,17 @@
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="302" y="1496" type="curve" smooth="no"/>
-      <point x="461" y="1496" type="line" smooth="no"/>
-      <point x="461" y="0" type="line" smooth="no"/>
-      <point x="284" y="0" type="line" smooth="no"/>
-      <point x="284" y="1311" type="line" smooth="no"/>
-      <point x="205" y="1259"/>
-      <point x="109" y="1221"/>
-      <point x="37" y="1198" type="curve" smooth="no"/>
-      <point x="37" y="1365" type="line" smooth="no"/>
-      <point x="125" y="1404"/>
-      <point x="223" y="1440"/>
+      <point x="302" y="1479" type="curve"/>
+      <point x="461" y="1479" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="1294" type="line"/>
+      <point x="205" y="1242"/>
+      <point x="109" y="1204"/>
+      <point x="37" y="1181" type="curve"/>
+      <point x="37" y="1348" type="line"/>
+      <point x="125" y="1387"/>
+      <point x="223" y="1423"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
 	    <key>width</key>	    <integer>21</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1476</integer>
+	    <key>position</key>	    <integer>1459</integer>
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	</array>

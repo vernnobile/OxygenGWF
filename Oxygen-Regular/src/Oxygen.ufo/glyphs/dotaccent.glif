@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
   <advance width="433"/>
-  <unicode hex="02d9"/>
+  <unicode hex="02D9"/>
   <outline>
     <component base="uni0307" xOffset="-206" yOffset="-1196"/>
   </outline>
@@ -12,7 +12,7 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1298</integer>
+	    <key>position</key>	    <integer>102</integer>
 	    <key>width</key>	    <integer>198</integer>
 	  </dict>
 	</array>
@@ -20,7 +20,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>122</integer>
+	    <integer>-84</integer>
 	    <key>width</key>
 	    <integer>168</integer>
 	  </dict>

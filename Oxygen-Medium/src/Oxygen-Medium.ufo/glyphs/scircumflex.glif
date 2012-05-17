@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
   <advance width="970"/>
-  <unicode hex="015d"/>
+  <unicode hex="015D"/>
   <outline>
     <component base="circumflex" xOffset="94.5" yOffset="22"/>
     <component base="s"/>

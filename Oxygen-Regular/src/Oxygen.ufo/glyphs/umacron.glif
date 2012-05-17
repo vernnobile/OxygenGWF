@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="umacron" format="1">
   <advance width="1100"/>
-  <unicode hex="016b"/>
+  <unicode hex="016B"/>
   <outline>
-    <component base="macron" xOffset="18.5" yOffset="-281"/>
+    <component base="macron" xOffset="18" yOffset="-281"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1259</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>122</integer>
 	  </dict>
 	</array>

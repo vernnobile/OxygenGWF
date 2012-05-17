@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
   <advance width="899"/>
-  <unicode hex="00ba"/>
+  <unicode hex="00BA"/>
   <outline>
     <contour>
       <point x="256" y="1207" type="curve" smooth="yes"/>

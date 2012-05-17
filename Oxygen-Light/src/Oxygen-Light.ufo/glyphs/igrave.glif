@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="igrave" format="1">
   <advance width="376"/>
-  <unicode hex="00ec"/>
+  <unicode hex="00EC"/>
   <outline>
-    <component base="grave" xOffset="-296" yOffset="-69"/>
     <component base="dotlessi"/>
+    <component base="grave" xOffset="-296" yOffset="-8"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

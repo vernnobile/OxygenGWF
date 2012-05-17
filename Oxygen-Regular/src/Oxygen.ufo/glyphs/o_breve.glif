@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="1">
   <advance width="1626"/>
-  <unicode hex="014e"/>
+  <unicode hex="014E"/>
   <outline>
-    <component base="breve" xOffset="434" yOffset="308"/>
     <component base="O"/>
+    <component base="breve" xOffset="434" yOffset="308"/>
   </outline>
   <lib>
     <dict>
@@ -18,10 +18,10 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>	    <integer>1353</integer>
-	    <key>width</key>	    <integer>152</integer>
+	    <key>width</key>	    <integer>151</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1647</integer>
+	    <key>position</key>	    <integer>1607</integer>
 	    <key>width</key>	    <integer>117</integer>
 	  </dict>
 	</array>
@@ -35,13 +35,13 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>578</integer>
+	    <integer>562</integer>
 	    <key>width</key>
 	    <integer>116</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>963</integer>
+	    <integer>947</integer>
 	    <key>width</key>
 	    <integer>117</integer>
 	  </dict>
