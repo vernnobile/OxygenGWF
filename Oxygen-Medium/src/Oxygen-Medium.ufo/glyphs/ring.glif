@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring" format="1">
   <advance width="397"/>
-  <unicode hex="02da"/>
+  <unicode hex="02DA"/>
   <outline>
     <contour>
       <point x="198" y="102" type="curve" smooth="yes"/>
       <point x="27.1945" y="102"/>
       <point x="-58.9074" y="225.403"/>
-      <point x="-58.9074" y="348.472" type="curve" smooth="yes"/>
+      <point x="-58.9074" y="348.473" type="curve" smooth="yes"/>
       <point x="-58.9074" y="470.88"/>
       <point x="26.2698" y="592.957"/>
       <point x="198" y="592.957" type="curve" smooth="yes"/>

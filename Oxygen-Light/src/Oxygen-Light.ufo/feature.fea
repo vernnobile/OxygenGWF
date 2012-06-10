@@ -7,7 +7,9 @@ lookup ligaStandardLigatureslookup0 {
     sub \f \j  by \fj;
     sub \f \i  by \uniFB01;
     sub \f \l  by \uniFB02;
-    sub \f \f  by \ff;
+    sub \f \f  by \uniFB00;
+    sub \f \f \i  by \uniFB03;
+    sub \f \f \l  by \uniFB04;
 } ligaStandardLigatureslookup0;
 
 feature liga {
@@ -237,13 +239,13 @@ feature kern {
 
 @GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Amacron 
 	\Aogonek \Aring \Atilde \B \C \Cacute \Ccaron \Ccedilla \Ccircumflex \Cdotaccent 
-	\D \Dcaron \E \Eacute \Ecaron \Ecircumflex \Edieresis \Edotaccent \Egrave 
-	\Emacron \Eogonek \Eth \F \G \Gbreve \Gcircumflex \Gcommaaccent \Gdotaccent \H 
-	\Hbar \Hcircumflex \I \IJ \Iacute \Ibreve \Icircumflex \Idieresis \Idotaccent 
-	\Igrave \Imacron \Iogonek \Itilde \J \Jcircumflex \K \Kcommaaccent \L \Lacute 
-	\Lcaron \Lcommaaccent \Ldot \Lslash \M \N \Nacute \Ncaron \Ncommaaccent \Ntilde \O 
-	\OE \Oacute \Obreve \Ocircumflex \Odieresis \Ograve \Ohungarumlaut \Omacron 
-	\Oslash \Otilde \P \Q \R \Racute \Rcaron \Rcommaaccent \S \Sacute \Scaron \Scedilla 
+	\D \Dcaron \E \Eacute \Ecaron \Ecircumflex \Edieresis \Egrave \Emacron \Eogonek 
+	\Eth \F \G \Gbreve \Gcircumflex \Gcommaaccent \Gdotaccent \H \Hbar \Hcircumflex \I 
+	\IJ \Iacute \Ibreve \Icircumflex \Idieresis \Idotaccent \Igrave \Imacron 
+	\Iogonek \Itilde \J \Jcircumflex \K \Kcommaaccent \L \Lacute \Lcaron 
+	\Lcommaaccent \Ldot \Lslash \M \N \Nacute \Ncaron \Ncommaaccent \Ntilde \O \OE 
+	\Oacute \Obreve \Ocircumflex \Odieresis \Ograve \Ohungarumlaut \Omacron \Oslash 
+	\Otilde \P \Q \R \Racute \Rcaron \Rcommaaccent \S \Sacute \Scaron \Scedilla 
 	\Scommaaccent \T \Tcaron \Tcommaaccent \Thorn \U \Uacute \Ubreve \Ucircumflex 
 	\Udieresis \Ugrave \Uhungarumlaut \Umacron \Uogonek \Uring \Utilde \V \W \X \Y 
 	\Yacute \Ydieresis \Z \Zacute \Zcaron \Zdotaccent \a \aacute \abreve \acircumflex 
@@ -253,15 +255,15 @@ feature kern {
 	\caron \ccaron \ccedilla \ccircumflex \cdotaccent \cedilla \cent \circumflex 
 	\colon \comma \commaaccentcomb \copyright \currency \d \dagger \daggerdbl 
 	\dcaron \dcroat \degree \dieresis \divide \dollar \dotaccent \dotlessi \e \eacute 
-	\ebreve \ecaron \ecircumflex \edieresis \edotaccent \egrave \eight \emacron 
-	\eogonek \equal \eth \exclam \exclamdown \f \five \florin \four \fraction \g 
-	\gbreve \gcircumflex \gcommaaccent \gdotaccent \germandbls \grave \greater 
-	\greaterequal \guillemotleft \guillemotright \guilsinglleft \guilsinglright 
-	\h \hbar \hcircumflex \hungarumlaut \hyphen \i \iacute \ibreve \icircumflex 
-	\idieresis \igrave \ij \imacron \iogonek \itilde \j \jcircumflex \k \kcommaaccent 
+	\ecaron \ecircumflex \edieresis \egrave \eight \emacron \eogonek \equal \eth 
+	\exclam \exclamdown \f \five \florin \four \fraction \g \gbreve \gcircumflex 
+	\gcommaaccent \gdotaccent \germandbls \grave \greater \greaterequal 
+	\guillemotleft \guillemotright \guilsinglleft \guilsinglright \h \hbar 
+	\hcircumflex \hungarumlaut \hyphen \i \iacute \ibreve \icircumflex \idieresis 
+	\igrave \ij \imacron \iogonek \itilde \j \jcircumflex \k \kcommaaccent 
 	\kgreenlandic \l \lacute \lcaron \lcommaaccent \ldot \less \lessequal 
-	\logicalnot \lozenge \lslash \m \macron \middot \minus \multiply \n \nacute 
-	\ncaron \ncommaaccent \nine \notequal \ntilde \numbersign \o \oacute \obreve 
+	\logicalnot \lozenge \lslash \m \macron \middot \multiply \n \nacute \ncaron 
+	\ncommaaccent \nine \notequal \ntilde \numbersign \o \oacute \obreve 
 	\ocircumflex \odieresis \oe \ogonek \ograve \ohungarumlaut \omacron \one 
 	\onehalf \onequarter \ordfeminine \oslash \otilde \p \paragraph \parenleft 
 	\parenright \period \periodcentered \plus \plusminus \q \question \questiondown 
@@ -277,13 +279,14 @@ feature kern {
 	\uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 \uni0215 \uni0216 \uni0217 
 	\uni021A \uni021B \uni0237 \uni0307 \uni030F \uni0311 \uni0326 \uni2074 \uogonek 
 	\uring \utilde \v \w \x \y \yacute \ydieresis \yen \z \zacute \zcaron \zdotaccent 
-	\zero ];
-@GDEF_Ligature = [\fj \uniFB01 \uniFB02 \ff ];
-@GDEF_Mark = [];
-@GDEF_Component = [];
+	\zero \Scircumflex \Wgrave \wgrave \Wacute \wacute \Wdieresis \wdieresis \Ygrave 
+	\ygrave \endash \emdash \ellipsis \Wcircumflex \wcircumflex \Ycircumflex 
+	\ycircumflex \foundryicon \percent \perthousand \product \Euro \infinity 
+	\integral \uni00B2 \uni00B3 \section \ordmasculine ];
+@GDEF_Ligature = [\fj \uniFB01 \uniFB02 \uniFB00 \uniFB03 \uniFB04 ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
 
 } GDEF;
 

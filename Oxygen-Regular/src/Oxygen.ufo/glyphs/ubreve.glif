@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
   <advance width="1100"/>
-  <unicode hex="016d"/>
+  <unicode hex="016D"/>
   <outline>
-    <component base="breve" xOffset="170.5" yOffset="-77"/>
+    <component base="breve" xOffset="170" yOffset="-77"/>
     <component base="u"/>
   </outline>
   <lib>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1242</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>117</integer>
 	  </dict>
 	</array>

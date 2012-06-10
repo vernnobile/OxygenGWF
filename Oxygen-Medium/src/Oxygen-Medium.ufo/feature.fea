@@ -316,11 +316,9 @@ feature kern {
 	\uring \utilde \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute 
 	\ycircumflex \ydieresis \yen \ygrave \z \zacute \zcaron \zdotaccent \zero ];
 @GDEF_Ligature = [\uniFB00 \uniFB01 \uniFB02 \fj ];
-@GDEF_Mark = [];
-@GDEF_Component = [];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
 
 } GDEF;
 

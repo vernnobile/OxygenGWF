@@ -3,8 +3,8 @@
   <advance width="1099"/>
   <unicode hex="0164"/>
   <outline>
-    <component base="caron" xOffset="147.5" yOffset="356"/>
     <component base="T"/>
+    <component base="caron" xOffset="148" yOffset="356"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>153</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1647</integer>
+	    <key>position</key>	    <integer>1607</integer>
 	    <key>width</key>	    <integer>388</integer>
 	  </dict>
 	</array>
@@ -29,7 +29,7 @@
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>240</integer>
+	    <integer>256</integer>
 	    <key>width</key>
 	    <integer>587</integer>
 	  </dict>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
   <advance width="953"/>
-  <unicode hex="015d"/>
+  <unicode hex="015D"/>
   <outline>
     <component base="circumflex" xOffset="84" yOffset="-29"/>
     <component base="s"/>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>136</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1251</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>388</integer>
 	  </dict>
 	</array>
@@ -35,7 +35,7 @@
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>162</integer>
+	    <integer>192</integer>
 	    <key>width</key>
 	    <integer>587</integer>
 	  </dict>

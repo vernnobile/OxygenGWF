@@ -4,9 +4,9 @@
   <unicode hex="0153"/>
   <outline>
     <contour>
-      <point x="1113" y="646" type="curve" smooth="no"/>
-      <point x="1588" y="646" type="line" smooth="no"/>
-      <point x="1588" y="656" type="line" smooth="no"/>
+      <point x="1113" y="646" type="curve"/>
+      <point x="1588" y="646" type="line"/>
+      <point x="1588" y="656" type="line"/>
       <point x="1587" y="850"/>
       <point x="1509" y="942"/>
       <point x="1364" y="942" type="curve" smooth="yes"/>
@@ -37,30 +37,30 @@
       <point x="596" y="1120" type="curve" smooth="yes"/>
       <point x="784" y="1120"/>
       <point x="916" y="1044"/>
-      <point x="992" y="927" type="curve" smooth="no"/>
+      <point x="992" y="927" type="curve"/>
       <point x="1065" y="1051"/>
       <point x="1200" y="1118"/>
-      <point x="1380" y="1120" type="curve" smooth="no"/>
+      <point x="1380" y="1120" type="curve"/>
       <point x="1695" y="1120"/>
       <point x="1821" y="887"/>
       <point x="1821" y="587" type="curve" smooth="yes"/>
       <point x="1821" y="562"/>
       <point x="1819" y="505"/>
-      <point x="1819" y="500" type="curve" smooth="no"/>
-      <point x="1110" y="500" type="line" smooth="no"/>
+      <point x="1819" y="500" type="curve"/>
+      <point x="1110" y="500" type="line"/>
       <point x="1114" y="283"/>
       <point x="1226" y="158"/>
       <point x="1417" y="158" type="curve" smooth="yes"/>
       <point x="1557" y="158"/>
       <point x="1654" y="209"/>
-      <point x="1722" y="261" type="curve" smooth="no"/>
-      <point x="1794" y="106" type="line" smooth="no"/>
+      <point x="1722" y="261" type="curve"/>
+      <point x="1794" y="106" type="line"/>
       <point x="1700" y="33"/>
       <point x="1591" y="-21"/>
       <point x="1410" y="-21" type="curve" smooth="yes"/>
       <point x="1206" y="-21"/>
       <point x="1064" y="51"/>
-      <point x="990" y="177" type="curve" smooth="no"/>
+      <point x="990" y="177" type="curve"/>
       <point x="919" y="61"/>
       <point x="782" y="-21"/>
     </contour>

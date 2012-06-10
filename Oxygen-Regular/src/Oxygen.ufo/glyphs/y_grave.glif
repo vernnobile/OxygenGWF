@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ygrave" format="1">
   <advance width="1194"/>
-  <unicode hex="1ef2"/>
+  <unicode hex="1EF2"/>
   <outline>
-    <component base="grave" xOffset="133" yOffset="356"/>
     <component base="Y"/>
+    <component base="grave" xOffset="133" yOffset="356"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1627</integer>
+	    <key>position</key>	    <integer>1607</integer>
 	    <key>width</key>	    <integer>387</integer>
 	  </dict>
 	</array>

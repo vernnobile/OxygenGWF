@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
-  <advance width="944"/>
-  <unicode hex="015d"/>
+  <advance width="950"/>
+  <unicode hex="015D"/>
   <outline>
-    <component base="circumflex" xOffset="79" yOffset="-92"/>
+    <component base="circumflex" xOffset="82" yOffset="-31"/>
     <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

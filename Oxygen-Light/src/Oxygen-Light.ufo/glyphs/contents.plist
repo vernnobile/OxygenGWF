@@ -52,8 +52,6 @@
 	<string>e_circumflex.glif</string>
 	<key>Edieresis</key>
 	<string>e_dieresis.glif</string>
-	<key>Edotaccent</key>
-	<string>e_dotaccent.glif</string>
 	<key>Egrave</key>
 	<string>e_grave.glif</string>
 	<key>Emacron</key>
@@ -340,16 +338,12 @@
 	<string>e.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
-	<key>ebreve</key>
-	<string>ebreve.glif</string>
 	<key>ecaron</key>
 	<string>ecaron.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
 	<key>edieresis</key>
 	<string>edieresis.glif</string>
-	<key>edotaccent</key>
-	<string>edotaccent.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
 	<key>eight</key>
@@ -470,8 +464,6 @@
 	<string>macron.glif</string>
 	<key>middot</key>
 	<string>middot.glif</string>
-	<key>minus</key>
-	<string>minus.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
@@ -762,7 +754,65 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>ff</key>
-	<string>ff.glif</string>
+	<key>uniFB00</key>
+	<string>unif_b_00.glif</string>
+	<key>Scircumflex</key>
+	<string>s_circumflex.glif</string>
+	<key>Wgrave</key>
+	<string>w_grave.glif</string>
+	<key>wgrave</key>
+	<string>wgrave.glif</string>
+	<key>Wacute</key>
+	<string>w_acute.glif</string>
+	<key>wacute</key>
+	<string>wacute.glif</string>
+	<key>Wdieresis</key>
+	<string>w_dieresis.glif</string>
+	<key>wdieresis</key>
+	<string>wdieresis.glif</string>
+	<key>Ygrave</key>
+	<string>y_grave.glif</string>
+	<key>ygrave</key>
+	<string>ygrave.glif</string>
+	<key>endash</key>
+	<string>endash.glif</string>
+	<key>emdash</key>
+	<string>emdash.glif</string>
+	<key>uniFB03</key>
+	<string>unif_b_03.glif</string>
+	<key>uniFB04</key>
+	<string>unif_b_04.glif</string>
+	<key>ellipsis</key>
+	<string>ellipsis.glif</string>
+	<key>Wcircumflex</key>
+	<string>w_circumflex.glif</string>
+	<key>wcircumflex</key>
+	<string>wcircumflex.glif</string>
+	<key>Ycircumflex</key>
+	<string>y_circumflex.glif</string>
+	<key>ycircumflex</key>
+	<string>ycircumflex.glif</string>
+	<key>foundryicon</key>
+	<string>foundryicon.glif</string>
+	<key>percent</key>
+	<string>percent.glif</string>
+	<key>perthousand</key>
+	<string>perthousand.glif</string>
+	<key>product</key>
+	<string>product.glif</string>
+	<key>Euro</key>
+	<string>e_uro.glif</string>
+	<key>infinity</key>
+	<string>infinity.glif</string>
+	<key>integral</key>
+	<string>integral.glif</string>
+	<key>uni00B2</key>
+	<string>uni00b_2.glif</string>
+	<key>uni00B3</key>
+	<string>uni00b_3.glif</string>
+	<key>section</key>
+	<string>section.glif</string>
+	<key>ordmasculine</key>
+	<string>ordmasculine.glif</string>
     </dict>
 </plist>

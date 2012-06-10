@@ -18,12 +18,12 @@
       <point x="160" y="54"/>
     </contour>
     <contour>
-      <point x="391" y="1496" type="line" smooth="no"/>
-      <point x="391" y="1354" type="line" smooth="no"/>
-      <point x="335" y="435" type="line" smooth="no"/>
-      <point x="256" y="435" type="line" smooth="no"/>
-      <point x="194" y="1354" type="line" smooth="no"/>
-      <point x="194" y="1496" type="line" smooth="no"/>
+      <point x="391" y="1496" type="line"/>
+      <point x="391" y="1354" type="line"/>
+      <point x="335" y="435" type="line"/>
+      <point x="256" y="435" type="line"/>
+      <point x="194" y="1354" type="line"/>
+      <point x="194" y="1496" type="line"/>
     </contour>
   </outline>
   <lib>

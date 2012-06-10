@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yacute" format="1">
   <advance width="1022"/>
-  <unicode hex="00fd"/>
+  <unicode hex="00FD"/>
   <outline>
     <component base="acute" xOffset="322" yOffset="-28"/>
     <component base="y"/>
@@ -21,7 +21,7 @@
 	    <key>width</key>	    <integer>20</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1242</integer>
+	    <key>position</key>	    <integer>1222</integer>
 	    <key>width</key>	    <integer>388</integer>
 	  </dict>
 	</array>

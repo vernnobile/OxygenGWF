@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="1">
   <advance width="968"/>
-  <unicode hex="010b"/>
+  <unicode hex="010B"/>
   <outline>
-    <component base="dotaccent" xOffset="496.5" yOffset="1120"/>
     <component base="c"/>
+    <component base="dotaccent" xOffset="496" yOffset="1120"/>
   </outline>
   <lib>
     <dict>

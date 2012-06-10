@@ -39,35 +39,16 @@
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2Type</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>1901</integer>
+	<integer>2082</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-483</integer>
+	<integer>-690</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>1901</integer>
+	<integer>2082</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>483</integer>
+	<integer>690</integer>
 	<key>openTypeOS2SubscriptXSize</key>
 	<integer>0</integer>
 	<key>openTypeOS2SubscriptYSize</key>

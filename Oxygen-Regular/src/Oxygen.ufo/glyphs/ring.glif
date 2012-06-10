@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring" format="1">
   <advance width="433"/>
-  <unicode hex="02da"/>
+  <unicode hex="02DA"/>
   <outline>
     <contour>
-      <point x="216.875" y="196.504" type="curve" smooth="yes"/>
-      <point x="307.97" y="196.504"/>
-      <point x="353.834" y="267.876"/>
-      <point x="353.834" y="339.084" type="curve" smooth="yes"/>
-      <point x="353.834" y="409.94"/>
-      <point x="308.389" y="480.634"/>
-      <point x="216.875" y="480.634" type="curve" smooth="yes"/>
-      <point x="125.812" y="480.634"/>
-      <point x="80.0205" y="409.323"/>
-      <point x="80.0205" y="338.147" type="curve" smooth="yes"/>
-      <point x="80.0205" y="267.259"/>
-      <point x="125.468" y="196.504"/>
+      <point x="217" y="197" type="curve" smooth="yes"/>
+      <point x="308" y="197"/>
+      <point x="354" y="268"/>
+      <point x="354" y="339" type="curve" smooth="yes"/>
+      <point x="354" y="410"/>
+      <point x="309" y="481"/>
+      <point x="217" y="481" type="curve" smooth="yes"/>
+      <point x="126" y="481"/>
+      <point x="80" y="409"/>
+      <point x="80" y="338" type="curve" smooth="yes"/>
+      <point x="80" y="267"/>
+      <point x="126" y="197"/>
     </contour>
     <contour>
-      <point x="-17.125" y="338.954" type="curve" smooth="yes"/>
-      <point x="-17.125" y="489.716"/>
-      <point x="99.8604" y="565.264"/>
-      <point x="216.759" y="565.264" type="curve" smooth="yes"/>
-      <point x="333.485" y="565.264"/>
-      <point x="450.125" y="489.938"/>
-      <point x="450.125" y="338.954" type="curve" smooth="yes"/>
-      <point x="450.125" y="188.609"/>
-      <point x="331.668" y="111.811"/>
-      <point x="214.042" y="111.811" type="curve" smooth="yes"/>
-      <point x="98.0547" y="111.811"/>
-      <point x="-17.125" y="186.485"/>
+      <point x="-17" y="339" type="curve" smooth="yes"/>
+      <point x="-17" y="490"/>
+      <point x="100" y="566"/>
+      <point x="217" y="566" type="curve" smooth="yes"/>
+      <point x="334" y="566"/>
+      <point x="450" y="490"/>
+      <point x="450" y="339" type="curve" smooth="yes"/>
+      <point x="450" y="189"/>
+      <point x="332" y="112"/>
+      <point x="214" y="112" type="curve" smooth="yes"/>
+      <point x="98" y="112"/>
+      <point x="-17" y="187"/>
     </contour>
   </outline>
   <lib>
@@ -39,27 +39,27 @@
 	<key>hhints</key>
 	<array>
 	  <dict>
-	    <key>position</key>	    <integer>1257</integer>
-	    <key>width</key>	    <integer>73</integer>
+	    <key>position</key>	    <integer>112</integer>
+	    <key>width</key>	    <integer>85</integer>
 	  </dict>
 	  <dict>
-	    <key>position</key>	    <integer>1553</integer>
-	    <key>width</key>	    <integer>73</integer>
+	    <key>position</key>	    <integer>481</integer>
+	    <key>width</key>	    <integer>85</integer>
 	  </dict>
 	</array>
 	<key>vhints</key>
 	<array>
 	  <dict>
 	    <key>position</key>
-	    <integer>417</integer>
+	    <integer>-17</integer>
 	    <key>width</key>
-	    <integer>96</integer>
+	    <integer>97</integer>
 	  </dict>
 	  <dict>
 	    <key>position</key>
-	    <integer>708</integer>
+	    <integer>354</integer>
 	    <key>width</key>
-	    <integer>98</integer>
+	    <integer>96</integer>
 	  </dict>
 	</array>
       </dict>

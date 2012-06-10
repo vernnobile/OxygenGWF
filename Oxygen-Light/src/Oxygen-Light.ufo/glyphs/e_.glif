@@ -4,23 +4,18 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="182" y="0" type="line" smooth="no"/>
-      <point x="182" y="1488" type="line" smooth="no"/>
-      <point x="1011" y="1488" type="line" smooth="no"/>
-      <point x="1006" y="1382" type="line" smooth="no"/>
-      <point x="310" y="1382" type="line" smooth="no"/>
-      <point x="310" y="822" type="line" smooth="no"/>
-      <point x="972" y="822" type="line" smooth="no"/>
-      <point x="972" y="713" type="line" smooth="no"/>
-      <point x="310" y="713" type="line" smooth="no"/>
-      <point x="310" y="107" type="line" smooth="no"/>
-      <point x="1028" y="107" type="line" smooth="no"/>
-      <point x="1017" y="0" type="line" smooth="no"/>
+      <point x="182" y="0" type="line"/>
+      <point x="182" y="1488" type="line"/>
+      <point x="1011" y="1488" type="line"/>
+      <point x="1006" y="1382" type="line"/>
+      <point x="310" y="1382" type="line"/>
+      <point x="310" y="822" type="line"/>
+      <point x="972" y="822" type="line"/>
+      <point x="972" y="713" type="line"/>
+      <point x="310" y="713" type="line"/>
+      <point x="310" y="107" type="line"/>
+      <point x="1028" y="107" type="line"/>
+      <point x="1017" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

@@ -3,7 +3,7 @@
   <advance width="1464"/>
   <unicode hex="0122"/>
   <outline>
-    <component base="commaaccentcomb" xOffset="445" yOffset="27"/>
     <component base="G"/>
+    <component base="commaaccentcomb" xOffset="445" yOffset="27"/>
   </outline>
 </glyph>
